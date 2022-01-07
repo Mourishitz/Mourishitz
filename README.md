@@ -6,7 +6,7 @@
 - 👯 Procuro colaborar com projetos que possam servir de experiência e aprendizado
 - 📫 Você pode me achar em redes sociais que estou deixando logo abaixo ou me mandando um E-Mail!
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Sou apaixonado por animes e mangás, RPG's de mesa, jogos e artes de todos os tipos, seja videos, culinária, livros, imagens ou músicas!
+- ⚡ Fun fact: Acompanho e jogo basquete frequentemente (#LakersNation). também sou apaixonado por animes e mangás, RPG's de mesa, jogos e artes de todos os tipos, seja videos, culinária, livros, imagens ou músicas!
 
 <div align="center">
   <a href="https://github.com/Mourishitz">
