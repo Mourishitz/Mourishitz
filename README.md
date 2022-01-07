@@ -1,7 +1,12 @@
 ### Olá! Eu sou Gabriel Morishita 👋
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   
+- 🔭 Trabalhando atualmente com Freelancing e projetos básicos para desenvolver meu conhecimento
+- 🌱 Aprendendo cada vez mais sobre Python e outras linguagens de programação Backend
+- 👯 Procuro colaborar com projetos que possam servir de experiência e aprendizado
+- 📫 Você pode me achar em redes sociais que estou deixando logo abaixo ou me mandando um E-Mail!
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fun fact: Sou apaixonado por animes e mangás, RPG's de mesa, jogos e artes de todos os tipos, seja videos, culinária, livros, imagens ou músicas!
 
 <div align="center">
   <a href="https://github.com/Mourishitz">
