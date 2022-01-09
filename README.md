@@ -1,5 +1,4 @@
 ### Olá! Eu sou Gabriel Morishita 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   
 - 🔭 Trabalhando atualmente com Freelancing e projetos básicos para desenvolver meu conhecimento
 - 🌱 Aprendendo cada vez mais sobre Python e outras linguagens de programação Backend
