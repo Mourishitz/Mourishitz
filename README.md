@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel Morishita 👋
   
-- 🔭 Trabalhando atualmente com Freelancing e projetos básicos para desenvolver meu conhecimento
+- 🔭 Estudante de Engenharia de Computação pelo Centro Universitário ENIAC
 - 🌱 Aprendendo cada vez mais sobre Python e outras linguagens de programação Backend
 - 👯 Procuro colaborar com projetos que possam servir de experiência e aprendizado
 - 📫 Você pode me achar em redes sociais que estou deixando logo abaixo ou me mandando um E-Mail!
