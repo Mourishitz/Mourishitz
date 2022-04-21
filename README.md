@@ -8,6 +8,7 @@ Desenvolvedor em desenvolvimento, descendente de japonês gamer e atleta🏀🏈
 *   🌍  Criado em São Paulo
 *   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
 *   🧠  Atualmente trabalho com Django Rest
+*   💍  Em um relacionamento serio (com uma pessoa de verdade)
 
 <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/GMorishita_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
