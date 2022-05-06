@@ -1,6 +1,8 @@
 はじめまして/Hello/Olá👋 Eu sou Gabriel Morishita
 ==================================
 **Dev Estagiário com foco em API's com Django Rest Framework**
+
+
 Computer Engeneering on Centro Universitário ENIAC
 --------------------
 
