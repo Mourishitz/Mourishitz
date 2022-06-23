@@ -63,11 +63,8 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-fVDbD3J8eho/YJF2gy45xrI/AAAAAAAAQeI/oEg5IEBzmKgCKpgbXwdr9Rx4pAbjCYToACLcBGAsYHQ/s0/Untitled%2B%252810%2529.png" width="36" height="36" alt="Android Studio" /></a>
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
-<a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a>
-  
-<a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a>
-  
-  
+<a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a> 
+<a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a> 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="36" height="36" alt="Jira Software" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
