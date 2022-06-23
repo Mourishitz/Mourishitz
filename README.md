@@ -1,6 +1,6 @@
 はじめまして/Hello/Olá👋 Eu sou Gabriel Morishita
 ==================================
-**Dev Estagiário com foco em API's com Django Rest Framework**
+**Dev Estagiário**
 
 
 Computer Engeneering on Centro Universitário ENIAC
@@ -10,7 +10,7 @@ Desenvolvedor em desenvolvimento, descendente de japonês gamer e atleta🏀🏈
 
 *   🌍  Criado em São Paulo
 *   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
-*   🧠  Atualmente trabalho com Django Rest
+*   🧠  Atualmente aprimorando conhecimentos de Django Rest Framework e React Typescript
 *   💍  Em um relacionamento serio (com uma pessoa de verdade)
 
 <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img
