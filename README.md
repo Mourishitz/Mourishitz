@@ -81,8 +81,14 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 <p align="left"> <a href="https://discord.com/users/349901598346182666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/gabriel.morishita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-morishita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/19016268/mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/hakuchiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Insígnias
 
-<b>My GitHub Stats</b>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&redirect=true)
+
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mourishitz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Linguagens de Programação mais usadas" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mourishitz&theme=juicyfresh&no-bg=true" />
 
 <a href="http://www.github.com/Mourishitz"><img src="https://github-readme-stats.vercel.app/api?username=Mourishitz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Mourishitz's GitHub stats" /></a>  <img src="https://i.imgur.com/sGCX9cS.png" width="225" height="225" />
