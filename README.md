@@ -83,7 +83,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&redirect=true)
-
+<a href="https://open.spotify.com/user/gabrielmorishita"><img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="64" height="64" /></a>
 
 ### GitHub Stats
 
