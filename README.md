@@ -6,9 +6,9 @@
 Computer Engeneering on Centro Universitário ENIAC
 --------------------
 
-Desenvolvedor em desenvolvimento, descendente de japonês gamer e atleta🏀🏈. Backend, fascinado por programação desde criança buscando conhecimento👽
+Desenvolvedor, Yonsei de japonês, Gamer e Atleta Universitário 🏀. Full Stack, fascinado por programação desde criança e buscando conhecimento👽
 
-*   🌍  Criado em São Paulo
+*   🌍  São Paulo - Guarulhos
 *   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
 *   🧠  Atualmente aprimorando conhecimentos de Django Rest Framework e React Typescript
 *   💍  Em um relacionamento serio (com uma pessoa de verdade)
@@ -21,6 +21,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 ## Habilidades
 
+#### Para conhecer  melhor todas as minhas habilidades e anotações relacionadas a programação, te convido a [olhar minha página pública do Notion](https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485), nela tem todas (ou quase todas) as anotações e referências que eu mais utilizo na hora de prgoramar 👨‍💻
 
 ### Back-End / API
 
