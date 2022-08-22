@@ -23,7 +23,13 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 #### Para conhecer  melhor todas as minhas habilidades e anotações relacionadas a programação, te convido a [olhar minha página pública do Notion](https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485), nela tem todas (ou quase todas) as anotações e referências que eu mais utilizo na hora de programar 👨‍💻
 
-### Back-End / API
+# Back-End
+
+### API's
+
+### Linguagens
+
+### Framework's | Ferramentas
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -39,7 +45,11 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" width="36" height="36" alt="Ruby" /></a>
 
   
-### Front-End
+# Front-End
+
+### Linguagens
+
+### Frameworks | Ferramentas
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
