@@ -12,6 +12,7 @@ Desenvolvedor, Yonsei de japonês, Gamer e Atleta Universitário 🏀. Full Stac
 *   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
 *   🧠  Atualmente aprimorando conhecimentos de Django Rest Framework e React Typescript
 *   💍  Em um relacionamento serio (com uma pessoa de verdade)
+*   🎒  Utilizo como padrão de Commits o [GitMoji](https://gitmoji.dev/)
 
 <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/GMorishita_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
@@ -72,7 +73,10 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36" alt="Notion" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" /></a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="36" height="36" alt="PyCharm" /></a>
+<a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="36" height="36" alt="WebStorm" /></a>
+<a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="36" height="36" alt="CLion" /></a>
 <a href="https://www.jetbrains.com/pt-br/ruby/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" width="36" height="36" alt="RubyMine" /></a>
+<a href="https://replit.com/~" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="36" height="36" alt="Replit" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-fVDbD3J8eho/YJF2gy45xrI/AAAAAAAAQeI/oEg5IEBzmKgCKpgbXwdr9Rx4pAbjCYToACLcBGAsYHQ/s0/Untitled%2B%252810%2529.png" width="36" height="36" alt="Android Studio" /></a>
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
