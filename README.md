@@ -20,7 +20,12 @@ src="https://img.shields.io/twitter/follow/GMorishita_?logo=twitter&style=for-th
 src="https://img.shields.io/github/followers/Mourishitz?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a><a href="https://www.twitch.tv/hakuchiii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=22272e&label=TWITCH+STATUS" /></a>
 
-## Habilidades
+#Habilidades
+
+## Trabalhos Públicos
+
+*   Zoológico Municipal de Guarulhos => [Repositório](https://github.com/Mourishitz/Zoo-Website) // [Site](https://zoologico-guarulhos.web.app)
+*   Sistema Tabela Somos => [Site](https://tabelasomos.com.br)
 
 #### Para conhecer  melhor todas as minhas habilidades e anotações relacionadas a programação, te convido a [olhar minha página pública do Notion](https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485), nela tem todas (ou quase todas) as anotações e referências que eu mais utilizo na hora de programar 👨‍💻
 
