@@ -51,6 +51,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="36" height="36" alt="Insomnia" /></a>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" width="36" height="36" alt="Ruby on Rails" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="36" height="36" alt="Node JS" /></a>
+<a href="https://docs.nestjs.com" target="_blank" rel="noreferrer"><img src="https://docs.nestjs.com/assets/logo-small.svg" width="36" height="36" alt="Node JS" /></a>
 
   
 # Front-End
@@ -87,7 +88,6 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 ### Banco de Dados
 
-<a href="https://sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://butecotecnologico.com.br/comecando-com-sql-alchemy/sql-alchemy-logo_hu9aaae5cb0138810bd2a9b3020b120bcf_12170_200x200_resize_q90_bgffffff_linear_2.jpg" width="36" height="36" alt="SQLAlchemy" /></a>
 <a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/gbi6DYL.png" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -96,19 +96,12 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 # Técnologias Variadas e Ferramentas
 
 <a href="https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36" alt="Notion" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="36" height="36" alt="PyCharm" /></a>
-<a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="36" height="36" alt="WebStorm" /></a>
-<a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="36" height="36" alt="CLion" /></a>
-<a href="https://www.jetbrains.com/pt-br/ruby/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" width="36" height="36" alt="RubyMine" /></a>
 <a href="https://replit.com/~" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="36" height="36" alt="Replit" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-fVDbD3J8eho/YJF2gy45xrI/AAAAAAAAQeI/oEg5IEBzmKgCKpgbXwdr9Rx4pAbjCYToACLcBGAsYHQ/s0/Untitled%2B%252810%2529.png" width="36" height="36" alt="Android Studio" /></a>
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
 <a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a> 
 <a href="https://ubuntubudgie.org" target="_blank" rel="noreferrer"><img src="https://ubuntubudgie.org/wp-content/uploads/2020/04/favicon.png" width="36" height="36" alt="Linux Mint" /></a>
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a> 
-<a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="36" height="36" alt="Jira Software" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
