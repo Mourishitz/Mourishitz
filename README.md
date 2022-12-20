@@ -45,6 +45,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 ### Framework's | Ferramentas
 
+<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="36" height="36" alt="Flask" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="36" height="36" alt="FastAPI" /></a>
@@ -99,6 +100,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://replit.com/~" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="36" height="36" alt="Replit" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
+<a href="https://learn.microsoft.com/en-us/windows/wsl/install" target="_blank" rel="noreferrer"><img src="https://bendyworks.com/assets/images/blog/2020-05-21-setup-windows-development-eb5c79a7.png" width="36" height="36" alt="Windows Subsystem for Linux 2" /></a> 
 <a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a> 
 <a href="https://ubuntubudgie.org" target="_blank" rel="noreferrer"><img src="https://ubuntubudgie.org/wp-content/uploads/2020/04/favicon.png" width="36" height="36" alt="Linux Mint" /></a>
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a> 
