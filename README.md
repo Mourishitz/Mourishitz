@@ -2,6 +2,8 @@
 ==================================
 ### *Dev Estagiário*
 
+[![wakatime](https://wakatime.com/badge/user/c3066713-8dca-47d5-9002-0096164d3393.svg)](https://wakatime.com/@c3066713-8dca-47d5-9002-0096164d3393)
+
 
 Computer Engeneering on Centro Universitário ENIAC
 --------------------
