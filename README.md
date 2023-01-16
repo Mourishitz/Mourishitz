@@ -121,8 +121,8 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 # GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mourishitz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Linguagens de Programação mais usadas" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Mourishitz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Linguagens de Programação mais usadas" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mourishitz&theme=juicyfresh&no-bg=true" />
 
-<a href="http://www.github.com/Mourishitz"><img src="https://github-readme-stats.vercel.app/api?username=Mourishitz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Mourishitz's GitHub stats" /></a>  <img src="https://i.imgur.com/sGCX9cS.png" width="225" height="225" />
+<a href="http://www.github.com/Mourishitz"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mourishitz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="Mourishitz's GitHub stats" /></a>  <img src="https://i.imgur.com/sGCX9cS.png" width="225" height="225" />
