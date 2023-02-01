@@ -1,6 +1,7 @@
 はじめまして/Hello/Olá👋 Eu sou Gabriel Morishita
 ==================================
-### *Dev Estagiário*
+# *Dev Estagiário*
+### Light Stand Founder & Co-Owner
 
 [![wakatime](https://wakatime.com/badge/user/c3066713-8dca-47d5-9002-0096164d3393.svg)](https://wakatime.com/@c3066713-8dca-47d5-9002-0096164d3393)
 
@@ -24,7 +25,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 # Habilidades
 
-## Trabalhos Públicos
+# Trabalhos Públicos
 
 *   Zoológico Municipal de Guarulhos => [Repositório](https://github.com/Mourishitz/Zoo-Website) // [Site](https://zoologico-guarulhos.web.app)
 *   Site Pessoal => [Site](https://gabriel-morishita.web.app)
