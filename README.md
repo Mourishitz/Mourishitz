@@ -1,7 +1,7 @@
 はじめまして/Hello/Olá👋 Eu sou Gabriel Morishita
 ==================================
-# *Dev Estagiário*
-### Light Stand Founder & Co-Owner
+### *Dev Estagiário*
+## Light Stand Co-Founder
 
 [![wakatime](https://wakatime.com/badge/user/c3066713-8dca-47d5-9002-0096164d3393.svg)](https://wakatime.com/@c3066713-8dca-47d5-9002-0096164d3393)
 
@@ -69,7 +69,8 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 ### Frameworks | Ferramentas
 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="36" height="36" alt="Flutter" /></a>
 <a href="https://dart.dev/get-dart" target="_blank" rel="noreferrer"><img src="https://dartpad.dev/pictures/logo_dart.png" width="36" height="36" alt="Dart" /></a>
