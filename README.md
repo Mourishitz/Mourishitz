@@ -38,7 +38,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 
 # Habilidades
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Mourishitz/dd119650-fcf7-4885-be21-9416995503fa.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Mourishitz/71275584-e03c-4975-a9d5-07033a31c726.png" /></a>
 
 ### Linguagens
 
