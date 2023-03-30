@@ -55,6 +55,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://dart.dev/get-dart" target="_blank" rel="noreferrer"><img src="https://dartpad.dev/pictures/logo_dart.png" width="36" height="36" alt="Dart" /></a>
 
 ### Framework's | Ferramentas
 
@@ -72,8 +73,9 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="36" height="36" alt="Flutter" /></a>
-<a href="https://dart.dev/get-dart" target="_blank" rel="noreferrer"><img src="https://dartpad.dev/pictures/logo_dart.png" width="36" height="36" alt="Dart" /></a>
-  
+<a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="36" height="36" alt="Dart" /></a>
+
+
 ### Cloud | Devops
 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
