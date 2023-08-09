@@ -21,7 +21,7 @@
 
 
 
-<a href="https://app.daily.dev/mourishitz"><img align="right" src="https://api.daily.dev/devcards/fa628f9a3c1445b3963b13b056f9ca39.png?r=o56" width="400" alt="Gabriel Morishita's Dev Card"/></a>
+<a href="https://app.daily.dev/mourishitz"><img align="right" src="https://github.com/Mourishitz/Mourishitz/blob/main/devcard.svg" width="400" alt="Gabriel Morishita's Dev Card"/></a>
 
   
 <h2 align="center">Um pouco mais sobre mim</h2>
