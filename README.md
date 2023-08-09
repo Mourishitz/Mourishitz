@@ -1,44 +1,81 @@
 
-# はじめまして/Hello/Olá👋 Eu sou Gabriel Morishita
+<h1 align="center"> Hello/Olá👋 Eu sou Gabriel Morishita </h1>
 
-### Computer Engineering on Centro Universitário ENIAC
-### Junior Developer | Light Stand Co-Founder
+<h2> 
+    <p align="center"> Backend Developer | Light Stand Co-Founder </p> 
+    <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
+</h2>
+
+<div align="center" style="diplay: flex;">
+  <img title="Github Years" alt="Github Yearly" src="https://badges.strrl.dev/years/Mourishitz?style=flat&color=blueviolet&logo=github" />
+  <img title="Github Monthly commits" alt="Github Mothly" src="https://badges.strrl.dev/commits/monthly/Mourishitz?style=flat&logo=github&color=blueviolet" />
+  <img title="Gihub all Contributions" alt="Gihub all Contributions" src="https://badges.strrl.dev/contributions/all/Mourishitz?color=blueviolet&logo=github" />
+  <img title="Github Repos" alt="Repos" src="https://badges.strrl.dev/repos/Mourishitz?style=flat&color=blueviolet&logo=github" />
+  <img src="https://img.shields.io/badge/Website_Pessoal-purple">
+  
 [![wakatime](https://wakatime.com/badge/user/c3066713-8dca-47d5-9002-0096164d3393.svg)](https://wakatime.com/@c3066713-8dca-47d5-9002-0096164d3393)
 
---------------------
+</div>
 
-Desenvolvedor, Yonsei de japonês, Gamer e Atleta Universitário 🏀. Fascinado por programação desde criança e buscando conhecimento👽
+<div align="left">
+
+
+
+<a href="https://app.daily.dev/mourishitz"><img align="right" src="https://api.daily.dev/devcards/fa628f9a3c1445b3963b13b056f9ca39.png?r=o56" width="400" alt="Gabriel Morishita's Dev Card"/></a>
+
+  
+<h2 align="center">Um pouco mais sobre mim</h2>
 
 *   🌍  São Paulo - Guarulhos
-*   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
+*   ✉️  Me manda um e-mail: [gabrielmorishita@proton.me](mailto:gabrielmorishita@proton.me)
 *   🧠  Entusiasta Backend com uma pitada de Fullstack!
 *   💍  Em um relacionamento serio (com uma pessoa de verdade)
 *   🎒  Utilizo como padrão de Commits o [GitMoji](https://gitmoji.dev/)
 *    🎵 Amo música! Inclusive agora estou escutando: <br />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&redirect=true)
 
-<p align="left"> <a href="https://discord.com/users/349901598346182666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36" alt="Notion" /></a> <a href="https://www.facebook.com/gabriel.morishita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-morishita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/19016268/mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/hakuchiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-<a href="https://open.spotify.com/user/gabrielmorishita"><img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="32" height="32" /></a></p>
-<a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GMorishita_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
-/></a><a href="https://www.github.com/Mourishitz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mourishitz?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a><a href="https://www.twitch.tv/hakuchiii" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=22272e&label=TWITCH+STATUS" /></a>
+<p align="left"> 
+    <h4>Da uma olhadinha nas redes sociais!</h4>
+    <a href="https://discord.com/users/349901598346182666" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    </a>
+    <a href="https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="32" height="32" alt="Notion" />
+    </a> 
+    <a href="https://www.facebook.com/gabriel.morishita" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    </a> 
+    <a href="https://www.github.com/Mourishitz" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a>
+    <a href="http://www.instagram.com/mourishitz.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-morishita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/19016268/mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/hakuchiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+    <a href="https://open.spotify.com/user/gabrielmorishita">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="32" height="32" />
+    </a>
+</p>
+</div>
 
+<br/>
+<br/>
 
-## Trabalhos Públicos
+# Trabalhos Públicos
 
 *   Zoológico Municipal de Guarulhos => [Repositório](https://github.com/Mourishitz/Zoo-Website) // [Site](https://zoologico-guarulhos.web.app)
 *   Site Pessoal => [Repositório](https://github.com/Mourishitz/Website)// [Site](https://gabriel-morishita.web.app)
+*   Rook => [Repositório](https://github.com/rook/rook)
+*   Timezone Finder => [Repositório]()
 
-#### Para conhecer  melhor todas as minhas habilidades e anotações relacionadas a programação, te convido a [olhar minha página pública do Notion](https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485), nela tem todas (ou quase todas) as anotações e referências que eu mais utilizo na hora de programar 👨‍💻
-
+<br/>
+<br/>
 
 # Habilidades
+#### Para conhecer  melhor todas as minhas habilidades e anotações relacionadas a programação, te convido a [olhar minha página pública do Notion](https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485), nela tem todas (ou quase todas) as anotações e referências que eu mais utilizo na hora de programar 👨‍💻
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Mourishitz/71275584-e03c-4975-a9d5-07033a31c726.png" /></a>
+<div style="display: flex;">
+<img src="https://wakatime.com/share/@Mourishitz/9e961478-e5b2-4ba3-9c2f-64d54ee13548.svg" />
+<img src="https://wakatime.com/share/@Mourishitz/71275584-e03c-4975-a9d5-07033a31c726.png" />
+</div>
 
 ### Linguagens
 
@@ -100,6 +137,7 @@ src="https://img.shields.io/twitch/status/hakuchiii?logo=twitchsx&style=for-the-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/383/1*co_1qORNdM0PI1nvCp7Iig.png" width="36" height="36" alt="Git" /></a>
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
 <a href="https://learn.microsoft.com/en-us/windows/wsl/install" target="_blank" rel="noreferrer"><img src="https://bendyworks.com/assets/images/blog/2020-05-21-setup-windows-development-eb5c79a7.png" width="36" height="36" alt="Windows Subsystem for Linux 2" /></a> 
+<a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/arch-linux-logo-3C25E68BA9-seeklogo.com.png" width="36" height="36" alt="Arch Linux" /></a>
 <a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a> 
 <a href="https://ubuntubudgie.org" target="_blank" rel="noreferrer"><img src="https://ubuntubudgie.org/wp-content/uploads/2020/04/favicon.png" width="36" height="36" alt="Linux Mint" /></a>
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a> 
