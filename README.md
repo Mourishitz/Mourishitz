@@ -64,7 +64,8 @@
 *   Zoológico Municipal de Guarulhos => [Repositório](https://github.com/Mourishitz/Zoo-Website) // [Site](https://zoologico-guarulhos.web.app)
 *   Site Pessoal => [Repositório](https://github.com/Mourishitz/Website)// [Site](https://gabriel-morishita.web.app)
 *   Rook => [Repositório](https://github.com/rook/rook)
-*   Timezone Finder => [Repositório]()
+*   Timezone Finder => [Repositório](https://github.com/jannikmi/timezonefinder)
+*   GitHub Clone => [Site](https://guthib-clone.web.app)
 
 <br/>
 <br/>
@@ -98,10 +99,11 @@
 
 <a href="https://laravel.com" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="36" height="36" alt="Flask" /></a>
+<a href="https://bun.sh" target="_blank" rel="noreferrer">
+<img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" width="36" height="36" alt="Bun" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="36" height="36" alt="FastAPI" /></a>
-<a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="36" height="36" alt="Insomnia" /></a>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" width="36" height="36" alt="Ruby on Rails" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="36" height="36" alt="Node JS" /></a>
 <a href="https://docs.nestjs.com" target="_blank" rel="noreferrer"><img src="https://docs.nestjs.com/assets/logo-small.svg" width="36" height="36" alt="Node JS" /></a>
@@ -109,6 +111,7 @@
 <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*ilC2Aqp5sZd1wi0CopD1Hw.png" width="36" height="36" alt="Flutter" /></a>
 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="36" height="36" alt="Dart" /></a>
 
@@ -128,9 +131,11 @@
 <img src="https://i.imgur.com/gbi6DYL.png" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://redis.com" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" width="36" height="36" alt="Redis" /></a>
 
 ### Softwares e Tecnologias
 
+<a href="https://insomnia.rest/download" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="36" height="36" alt="Insomnia" /></a>
 <a href="https://wholesale-quill-de7.notion.site/009dde760e3e4725b1a6172dfa26c33e?v=d3e97b51c1614942a2e477bcf226b485" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36" alt="Notion" /></a>
 <a href="https://replit.com/~" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="36" height="36" alt="Replit" /></a>
@@ -138,6 +143,8 @@
 <a href="https://workspace.google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png" width="36" height="36" alt="Google Workspace" /></a>
 <a href="https://learn.microsoft.com/en-us/windows/wsl/install" target="_blank" rel="noreferrer"><img src="https://bendyworks.com/assets/images/blog/2020-05-21-setup-windows-development-eb5c79a7.png" width="36" height="36" alt="Windows Subsystem for Linux 2" /></a> 
 <a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/arch-linux-logo-3C25E68BA9-seeklogo.com.png" width="36" height="36" alt="Arch Linux" /></a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" width="36" height="36" alt="Ubuntu" /></a>
+<a href="https://debian.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/debian_logo_icon_169285.png" width="36" height="36" alt="Debian" /></a>
 <a href="https://linuxmint.com/download.php" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/768px-Linux_Mint_logo_without_wordmark.svg.png" width="36" height="36" alt="Linux Mint" /></a> 
 <a href="https://ubuntubudgie.org" target="_blank" rel="noreferrer"><img src="https://ubuntubudgie.org/wp-content/uploads/2020/04/favicon.png" width="36" height="36" alt="Linux Mint" /></a>
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.learnlinux.in%2Fwp-content%2Fuploads%2F2020%2F04%2Fkali.png&f=1&nofb=1" width="36" height="36" alt="Linux Mint" /></a> 
