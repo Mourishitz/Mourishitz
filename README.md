@@ -29,7 +29,6 @@
 *   🌍  São Paulo - Guarulhos
 *   ✉️  Me manda um e-mail: [gabrielmorishita@proton.me](mailto:gabrielmorishita@proton.me)
 *   🧠  Entusiasta Backend com uma pitada de Fullstack!
-*   💍  Em um relacionamento serio (com uma pessoa de verdade)
 *   🎒  Utilizo como padrão de Commits o [GitMoji](https://gitmoji.dev/)
 *    🎵 Amo música! Inclusive agora estou escutando: <br />
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&redirect=true)
