@@ -1,9 +1,6 @@
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Mourishitz/Mourishitz/raw/main/kanagawa-wave');]{x0000}$}
 ```
-
-<h1 align="center"> Hello/Olá👋 Eu sou Gabriel Morishita </h1>
-
 <h2> 
     <p align="center"> Backend Developer | Light Stand Co-Founder </p> 
     <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
@@ -53,85 +50,20 @@
     <a href="http://www.instagram.com/mourishitz.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gabriel-morishita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/19016268/mourishitz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/hakuchiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
     <a href="https://open.spotify.com/user/gabrielmorishita">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="32" height="32" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="32" />
     </a>
 </p>
 </div>
 
-<br/>
-<br/>
-
-# Trabalhos Públicos
-
-*   Zoológico Municipal de Guarulhos => [Repositório](https://github.com/Mourishitz/Zoo-Website) // [Site](https://zoologico-guarulhos.web.app)
-*   Site Pessoal => [Repositório](https://github.com/Mourishitz/Website)// [Site](https://gabriel-morishita.web.app)
-*   Rook => [Repositório](https://github.com/rook/rook)
-*   Timezone Finder => [Repositório](https://github.com/jannikmi/timezonefinder)
-*   GitHub Clone => [Site](https://guthib-clone.web.app)
-
-<br/>
-<br/>
-
-# Habilidades
-
-
-<a href="https://archlinux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/ArchLinux/ArchLinux.png" width="280" />
-<a/>
-    
-<a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Github/Github.png" width="280" />
-<a/>
-    
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Go/Golang.png" width="280" />
-<a/>
-    
-<a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Laravel/Laravel.png" width="280" />
-<a/>
-    
-<a href="https://bun.sh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Bun/BunLogoShadowed.png" width="280" />
-<a/>
-    
-<a href="https://neovim.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Neovim/NeovimShadowed.png" width="280" />
-<a/>
-    
-<a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Vue/Vue.png" width="280" />
-<a/>
-
-<a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Python/Python.png" width="280" />
-<a/>
-
-<a href="https://htmx.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Htmx/htmx.png" width="280" />
-<a/>
-
-<a href="https://java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Java/Java.png" width="280" />
-<a/>
-
-<a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogoShadowed.png" width="280" />
-<a/>
-
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Tailwindcss/Tailwindcss6.png" width="280" />
-<a/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<div style="display: flex;">
-<img src="https://wakatime.com/share/@Mourishitz/71275584-e03c-4975-a9d5-07033a31c726.png" />
+<div>
+    <h4>Stack</h4>
+    <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="32" />
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" height="32" />
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flaravel%2Flogo-laravel-icon-1024.png&f=1&nofb=1&ipt=9421348d600809bfaf4cae2964652dee218d67ce4aabb0c212a6d6c3290a6ccb&ipo=images" height="32" />
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1&ipt=7ba16d0185bd31da34849b834fa3ff43fc284fb1612b4b7ee018631840940955&ipo=images" height="32" />
+    <img src="https://bun.sh/logo-square.png" height="32" />
+    <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" height="32" />
+    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" height="32" />
 </div>
+
 
