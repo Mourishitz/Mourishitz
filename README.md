@@ -1,6 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Mourishitz/Mourishitz/raw/main/kanagawa-wave');]{x0000}$}
-```
 <h2> 
     <p align="center"> Backend Developer | Light Stand Co-Founder </p> 
     <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
@@ -19,12 +16,10 @@
 
 <div align="left">
 
-
-
-<a href="https://app.daily.dev/mourishitz"><img align="right" src="https://github.com/Mourishitz/Mourishitz/blob/main/devcard.svg" width="400" alt="Gabriel Morishita's Dev Card"/></a>
+<a href="https://app.daily.dev/mourishitz"><img align="right" src="./devcard.png" width="356" alt="Gabriel Morishita's Dev Card"/></a>
 
   
-<h2 align="center">Um pouco mais sobre mim</h2>
+<h3 align="center">Um pouco mais sobre mim</h3>
 
 *   🌍  São Paulo - Guarulhos
 *   ✉️  Me manda um e-mail: [gabrielmorishita@proton.me](mailto:gabrielmorishita@proton.me)
