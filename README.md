@@ -1,5 +1,5 @@
 <h2> 
-    <p align="center"> Backend Developer | Light Stand Co-Founder </p> 
+    <p align="center"> Backend Developer </p> 
     <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
 </h2>
 
