@@ -26,7 +26,7 @@
 *   🧠  Entusiasta Backend com uma pitada de Fullstack!
 *   🎒  Utilizo como padrão de Commits o [GitMoji](https://gitmoji.dev/)
 *    🎵 Amo música! Inclusive agora estou escutando: <br />
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gabrielmorishita&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&redirect=true)
 
 <p align="left"> 
     <h4>Da uma olhadinha nas redes sociais!</h4>
