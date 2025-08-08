@@ -22,7 +22,7 @@
 <h3 align="center">Um pouco mais sobre mim</h3>
 
 *   🌍  São Paulo - Guarulhos
-*   ✉️  Me manda um e-mail: [gabrielmorishita@proton.me](mailto:gabrielmorishita@proton.me)
+*   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
 *   🧠  Entusiasta Backend com uma pitada de Fullstack!
 *   🎒  Utilizo como padrão de Commits o [GitMoji](https://gitmoji.dev/)
 *    🎵 Amo música! Inclusive agora estou escutando: <br />
