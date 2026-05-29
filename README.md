@@ -22,11 +22,10 @@
   
 <h3 align="center">Um pouco mais sobre mim</h3>
 
-*   🌍  São Paulo - Guarulhos
-*   ✉️  Me manda um e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
-*   🧠  Entusiasta Backend com uma pitada de Fullstack!
-*   🎒  Utilizo como padrão de Commits o [GitMoji](https://gitmoji.dev/)
-*    🎵 Amo música! Inclusive agora estou escutando: <br />
+*   🇧🇷  São Paulo - Guarulhos
+*   ✉️  Send me an e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
+*   🧠  Backend developer with a touch of Fullstack!
+*   🎵 Love music! I'm listening this btw: <br />
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&redirect=true)
 
 <p align="left"> 
