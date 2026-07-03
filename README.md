@@ -1,15 +1,12 @@
 <h2> 
-    <p align="center"> Backend Developer </p> 
-    <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
+    <p align="center"> Fullstack Developer </p> 
+    <p align="center"> Computer Science </p>
 </h2>
 
 <div align="center" style="diplay: flex;">
 
   <img title="Github Years" alt="Github Yearly" src="https://badges.strrl.dev/years/Mourishitz?style=flat&color=blueviolet&logo=github" />
-  <img title="Github Monthly commits" alt="Github Mothly" src="https://badges.strrl.dev/commits/monthly/Mourishitz?style=flat&logo=github&color=blueviolet" />
   <img title="Gihub all Contributions" alt="Gihub all Contributions" src="https://badges.strrl.dev/contributions/all/Mourishitz?color=blueviolet&logo=github" />
-  <img title="Github Repos" alt="Repos" src="https://badges.strrl.dev/repos/Mourishitz?style=flat&color=blueviolet&logo=github" />
-  <img src="https://img.shields.io/badge/Website_Pessoal-purple">
   
 [![wakatime](https://wakatime.com/badge/user/c3066713-8dca-47d5-9002-0096164d3393.svg)](https://wakatime.com/@c3066713-8dca-47d5-9002-0096164d3393)
 
@@ -20,7 +17,7 @@
 <a href="https://app.daily.dev/mourishitz"><img align="right" src="./devcard.png" width="356" alt="Gabriel Morishita's Dev Card"/></a>
 
   
-<h3 align="center">Um pouco mais sobre mim</h3>
+<h3 align="center">A bit about me</h3>
 
 *   🇧🇷  São Paulo - Guarulhos
 *   ✉️  Send me an e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
@@ -29,7 +26,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&redirect=true)
 
 <p align="left"> 
-    <h4>Da uma olhadinha nas redes sociais!</h4>
+    <h4>Also on:</h4>
     <a href="https://discord.com/users/349901598346182666" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </a>
