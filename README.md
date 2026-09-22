@@ -23,7 +23,7 @@
 *   ✉️  Send me an e-mail: [gabrielmorishita@hotmail.com](mailto:gabrielmorishita@hotmail.com)
 *   🧠  Backend developer with a touch of Fullstack!
 *   🎵 Love music! I'm listening this btw: <br />
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmorishita&redirect=true)
 
 <p align="left"> 
     <h4>Also on:</h4>
