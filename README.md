@@ -30,13 +30,10 @@
     <a href="https://discord.com/users/349901598346182666" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </a>
-    <a href="https://www.facebook.com/gabriel.morishita" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-    </a> 
     <a href="https://www.github.com/Mourishitz" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
-    <a href="http://www.instagram.com/mourishitz.dev" target="_blank" rel="noreferrer">
+    <a href="http://www.instagram.com/mourishitz.jpg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a> 
     <a href="https://www.linkedin.com/in/gabriel-morishita" target="_blank" rel="noreferrer">
@@ -44,9 +41,6 @@
     </a> 
     <a href="https://stackoverflow.com/users/19016268/mourishitz" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </a> 
-    <a href="https://www.twitter.com/GMorishita_" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a> 
     <a href="https://open.spotify.com/user/gabrielmorishita">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" height="32" />
